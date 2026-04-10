@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import streamlit as st
 from PIL import Image 
-genai.configure(api_key="AIzaSyAPKmOY6cpx_pV5Cwl0Cm-7K-2kihH5C-Y")
+genai.configure(api_key="Enter your API KEY from your gemini AI")
 model=genai.GenerativeModel("gemini-2.5-flash")
 st.title("Q&A Chatbot")
 
