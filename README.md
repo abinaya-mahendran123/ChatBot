@@ -23,3 +23,4 @@ This project is an AI-powered chatbot built using Streamlit and Google Generativ
      Google Generative AI (Gemini API)
 
      PIL (Python Imaging Library)
+<img width="1141" height="602" alt="Screenshot 2026-04-06 211144" src="https://github.com/user-attachments/assets/18b98563-c684-4fd2-baa4-77ae27a05615" />
